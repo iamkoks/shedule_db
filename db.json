@@ -22,7 +22,7 @@
   "teachers": [
     { "id": 1, "name": "Герасимова Елена Алексеевна" },
     { "id": 2, "name": "Ермакова Виктория Владимировна" },
-    { "id": 3, "img":"https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/79310321_773493229835827_1193701741529498876_n.jpg?tp=1&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=CJq1RDUrA4cAX-rWRf3&edm=AP_V10EBAAAA&ccb=7-4&oh=e6bb38cbb08981cf23ea594c94d512a4&oe=60E9489C&_nc_sid=4f375e 640w,https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p750x750/79310321_773493229835827_1193701741529498876_n.jpg?tp=1&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=CJq1RDUrA4cAX-rWRf3&edm=AP_V10EBAAAA&ccb=7-4&oh=7df16831e8cd247a7f9402b29b26e5a6&oe=60EA675C&_nc_sid=4f375e 750w,https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/e35/79310321_773493229835827_1193701741529498876_n.jpg?tp=1&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=CJq1RDUrA4cAX-rWRf3&edm=AP_V10EBAAAA&ccb=7-4&oh=637867ffaf4f6e7dbd9da9c6f49f695a&oe=60E9646E&_nc_sid=4f375e 1080w", "name": "Карасик Диана Игоревна" },
+    { "id": 3, "img":"https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/e35/79310321_773493229835827_1193701741529498876_n.jpg?tp=1&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=CJq1RDUrA4cAX-rWRf3&tn=w4gq3KeDoBrKXOHN&edm=AP_V10EBAAAA&ccb=7-4&oh=778407876ac630c17f5c6329bbe122a4&oe=60E9646E&_nc_sid=4f375e", "name": "Карасик Диана Игоревна" },
     { "id": 4, "name": "Самохвал Тамара Васильевна" }
   ]
 }
