@@ -14,9 +14,9 @@
     ,
       {"day": "Вторник",
       "disciplines": [
-        [{"time": "9:00-11:55"}, {"name": "БД"}, {"teacher":"Герасимова Е.А."}, {"cabinet": "28"}],
-        [{"time": "9:00-11:55"}, {"name": "БД"}, {"teacher":"Герасимова Е.А."}, {"cabinet": "28"}],
-        [{"time": "9:00-11:55"}, {"name": "БД"}, {"teacher":"Герасимова Е.А."}, {"cabinet": "28"}]
+        [{"time": "9:00-11:55"}, {"name": "БД"}, {"teacher":"Герасимова Е.А."}, {"link": "gerasimova"}, {"cabinet": "28"}],
+        [{"time": "9:00-11:55"}, {"name": "БД"}, {"teacher":"Герасимова Е.А."}, {"link": "gerasimova"}, {"cabinet": "28"}],
+        [{"time": "9:00-11:55"}, {"name": "БД"}, {"teacher":"Герасимова Е.А."}, {"link": "gerasimova"}, {"cabinet": "28"}]
     ]}
   ],
   "teachers": [
